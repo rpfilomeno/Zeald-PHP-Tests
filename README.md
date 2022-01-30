@@ -33,6 +33,7 @@ php "test-app/artisan" serve --host='localhost' --port='8000'
 ## Examples Export
 
 ```
+http://localhost:8000/
 http://localhost:8000/export/playerstats/byteam/TOR
 http://localhost:8000/export/playerstats/byposition/C
 http://localhost:8000/export/playerstats/byplayer/Steven%20Adams/xml
