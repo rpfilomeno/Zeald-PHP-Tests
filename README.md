@@ -22,6 +22,13 @@ This is a programmer job  test from Dash10.
 ```bash
 mysql -u root -h 127.0.0.1 < original-code/database/nba2019.sql
 ```
+## Composer
+https://getcomposer.org/download/
+```bash
+cd test-app/
+php composer.phar install
+```
+
 
 ## Server start
 
