@@ -20,7 +20,7 @@ This is a programmer job  test from Dash10.
 ## DB Installation
 
 ```bash
-mysql -u root -h 127.0.0.1 < archive/database/nba2019.sql
+mysql -u root -h 127.0.0.1 < original-code/database/nba2019.sql
 ```
 
 ## Server start
